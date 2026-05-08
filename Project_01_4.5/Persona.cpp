@@ -28,7 +28,7 @@ namespace Model {
     Persona::~Persona() {
     }
 
-    //getters y setters
+    
     void Persona::setId(int nid) {
         this->id = nid;
     }

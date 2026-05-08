@@ -3,7 +3,7 @@
 #include <string>
 using namespace std;
 
-// UI interfaz de usuario
+
 namespace View
 {
     class UI_edad
